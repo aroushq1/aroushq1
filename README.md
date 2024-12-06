@@ -9,7 +9,7 @@
 Hi there! I'm Aroush, a third year software engineering student who loves writing clean, efficient code and building systems that solve real-world problems. When I'm not coding, I enjoy exploring new technologies and sharpening my problem-solving skills!
 
 ### 🛠 Skills & Tools  
-- **Languages:** [Java | Python | JavaScript | HTML | CSS | C/C++ ]  
+- **Languages:** [Java | Python | JavaScript | HTML | CSS | C/C++ | Assembly ]  
 - **Frameworks:** [Spring Boot | React | Flask ]  
 - **Tools & Platforms:** [Git | Github | Gitlab | VSCode | Eclipse | IntelliJ | XCode | MySQL | MPLAB ]  
 - **Special Interests:** [Web Development | Networked Systems| Object Oriented Design | Embedded Systems ]  
