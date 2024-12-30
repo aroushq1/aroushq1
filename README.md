@@ -17,8 +17,8 @@ Hi there! I'm Aroush, a third year software engineering student who loves writin
 ---
 
 ## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aroushq1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroushq1&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aroushq1&show_icons=true&theme=radical&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroushq1&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 ## 🔭 Current Projects  
