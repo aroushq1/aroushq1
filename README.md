@@ -22,7 +22,8 @@ Hi there! I'm Aroush, a third year software engineering student who loves writin
 ---
 
 ## 🔭 Current Projects  
-- 🌐 Building an online portfolio!
+- 🌐 Working on a House Price Predictor app!
+- 🌐 Working on a Stock Prediction app!
 
 ---
 
