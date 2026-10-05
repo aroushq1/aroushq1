@@ -8,7 +8,7 @@
 ## 🌟 About Me  
 Hi there! I'm Aroush, a fifth year software engineering student who loves writing clean, efficient code and building systems that solve real-world problems. When I'm not coding, I enjoy exploring new technologies and sharpening my problem-solving skills!
 
-## 📈 GitHub Stats  
+## 📈 Top Languages 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aroushq1&theme=radical)  
 ---
 
