@@ -27,7 +27,7 @@ Hi there! I'm Aroush, a fifth year software engineering student who loves writin
 ---
 
 ## 📫 Let's Connect    
-- 💼 [LinkedIn](https://www.linkedin.com/in/aroush-qureshi-156a63260/)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/aroushq/)   
 - 📧 [Email](mailto:aroushq1@gmail.com)
 
 ---
