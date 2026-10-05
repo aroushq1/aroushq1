@@ -6,25 +6,11 @@
 ---
 
 ## 🌟 About Me  
-Hi there! I'm Aroush, a third year software engineering student who loves writing clean, efficient code and building systems that solve real-world problems. When I'm not coding, I enjoy exploring new technologies and sharpening my problem-solving skills!
-
-### 🛠 Skills & Tools  
-- **Languages:** [ Java | Python | JavaScript | HTML | CSS | C/C++ | Assembly | Socket Programming (TCP/IP, UDP) ]
-- **Frameworks:** [ Spring Boot | React.js | Flask | Next.js | Tailwind CSS | Bootstrap | Angular | Node.js | Spring Boot ]  
-- **Tools & Platforms:** [ Git | Github | Gitlab | VSCode | Eclipse | IntelliJ | XCode | MySQL | MPLAB | Vercel ]  
-- **Special Interests:** [ Web Development | Networked Systems| Object Oriented Design | Embedded Systems | Cybersecurity ]
-
----
+Hi there! I'm Aroush, a fifth year software engineering student who loves writing clean, efficient code and building systems that solve real-world problems. When I'm not coding, I enjoy exploring new technologies and sharpening my problem-solving skills!
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aroushq1&show_icons=true&theme=radical&cache_seconds=1800&v=1)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aroushq1&theme=radical)  
----
-
-## 🔭 Current Projects  
-- 🌐 Working on a House Price Predictor app!
-- 🌐 Working on a Stock Prediction app!
-
 ---
 
 ## 🌱 Learning & Exploring  
